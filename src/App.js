@@ -14,7 +14,7 @@ import BookingsPage from './pages/BookingsPage';
 import BookingPage from './pages/BookingPage';
 
 
-axios.defaults.baseURL = 'https://booknaren.onrender.com/'
+axios.defaults.baseURL = 'https://famous-boot-goat.cyclic.app/'
 axios.defaults.withCredentials = true;
 
 
